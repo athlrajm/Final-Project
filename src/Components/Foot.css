@@ -1,0 +1,68 @@
+.footer {
+    background-color: black;
+    padding: 40px 0;
+  }
+  
+  .footer .container {
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  .footer h4 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  
+  .footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer li {
+    margin-bottom: 10px  ;
+  }
+  
+
+  .footer a {
+    color: #666;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    color: #000;
+  }
+  .FtCap1,.FtTitle1{
+    color: aliceblue;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  h4{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .Ftcap2,.Ftcap3{
+    color: grey;
+  }
+  .n{
+    text-align:left;
+  }
+  .Li1
+  {
+    margin-left:900px;
+    padding: 20px;
+  }
+  .FtLogo{
+    margin-left: 450px;
+    margin-top: 10px;
+  }
+  .f-6{
+    text-align: center;
+    padding: 10px;
+  }
+  .f-7{
+    text-align: center;
+    padding: 10px;
+  }
